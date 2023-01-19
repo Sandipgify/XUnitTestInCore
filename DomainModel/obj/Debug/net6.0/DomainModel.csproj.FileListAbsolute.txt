@@ -1,0 +1,12 @@
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\bin\Debug\net6.0\DomainModel.deps.json
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\bin\Debug\net6.0\DomainModel.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\bin\Debug\net6.0\DomainModel.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.csproj.AssemblyReference.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.AssemblyInfoInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.AssemblyInfo.cs
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.csproj.CoreCompileInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\refint\DomainModel.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\DomainModel.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\DomainModel\obj\Debug\net6.0\ref\DomainModel.dll

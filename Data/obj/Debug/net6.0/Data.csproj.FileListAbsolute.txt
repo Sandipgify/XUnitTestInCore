@@ -1,0 +1,17 @@
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Data.deps.json
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Data.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Data.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\DomainModel.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\DomainModel.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache

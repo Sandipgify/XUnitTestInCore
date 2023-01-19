@@ -1,0 +1,12 @@
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\bin\Debug\net6.0\Service.deps.json
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\bin\Debug\net6.0\Service.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\bin\Debug\net6.0\Service.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\Service.pdb
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Service\obj\Debug\net6.0\ref\Service.dll
