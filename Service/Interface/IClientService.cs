@@ -9,7 +9,7 @@ namespace Service.Interface
         Task Update(ClientDTO clientDTO, CancellationToken cancellationToken = default);
         Task<ClientDTO> Get(long id, CancellationToken cancellationToken);
         Task<IEnumerable<ClientDTO>> Get(CancellationToken cancellationToken);
-        Task DeleteClient(long id);
+        Task DeleteClient(long id, CancellationToken cancellationToken=default);
         Task<bool> ClientExist(long id, CancellationToken cancellationToken);
     }
 }

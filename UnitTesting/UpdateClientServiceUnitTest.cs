@@ -1,10 +1,4 @@
-﻿using DomainModel.Model;
-using Service.DTO;
-using Service.Interface;
-using Service.Services;
-using Shouldly;
-
-namespace Service.UnitTest;
+﻿namespace Service.UnitTest;
 
 public class UpdateClientServiceUnitTest
 {
@@ -38,7 +32,7 @@ public class UpdateClientServiceUnitTest
     }
 
     [Fact]
-    public async Task Update_ShouldUpdateClientAndSaveChanges()
+    public async Task Update_Should_UpdateClientAndSaveChanges()
     {
         ServiceSetup();
         var clientDTO = new ClientDTO
@@ -66,7 +60,6 @@ public class UpdateClientServiceUnitTest
     [Fact]
     public async Task Update_Should_ThrowNullException_When_ClientNotExist()
     {
-        ServiceSetup();
         _clientRepositoryMock.Setup(x => x.Get(It.IsAny<long>(), It.IsAny<CancellationToken>())).ReturnsAsync((Client)null);
 
         var clientDTO = new ClientDTO
