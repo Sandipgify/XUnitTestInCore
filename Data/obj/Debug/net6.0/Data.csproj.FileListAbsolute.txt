@@ -13,5 +13,5 @@ D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.dll
 D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\refint\Data.dll
 D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.pdb
 D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\ref\Data.dll
-D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Data.runtimeconfig.json
-D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Service.dll
+D:\Learning\Project\AppTest\UnitTestWithXUnit\Data\bin\Debug\net6.0\Service.pdb

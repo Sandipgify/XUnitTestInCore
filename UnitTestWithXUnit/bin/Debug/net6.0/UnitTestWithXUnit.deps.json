@@ -749,7 +749,8 @@
         "dependencies": {
           "DomainModel": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2",
-          "Microsoft.EntityFrameworkCore.Relational": "7.0.2"
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.2",
+          "Service": "1.0.0"
         },
         "runtime": {
           "Data.dll": {}
@@ -762,6 +763,7 @@
       },
       "Service/1.0.0": {
         "dependencies": {
+          "DomainModel": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2"
         },
         "runtime": {

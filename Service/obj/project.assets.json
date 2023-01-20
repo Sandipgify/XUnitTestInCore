@@ -216,6 +216,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DomainModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DomainModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainModel.dll": {}
+        }
       }
     }
   },
@@ -554,10 +564,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DomainModel/1.0.0": {
+      "type": "project",
+      "path": "../DomainModel/DomainModel.csproj",
+      "msbuildProject": "../DomainModel/DomainModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DomainModel >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.2"
     ]
   },
@@ -587,7 +603,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

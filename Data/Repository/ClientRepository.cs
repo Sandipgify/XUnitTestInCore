@@ -1,9 +1,10 @@
 ﻿using DomainModel.Model;
 using Microsoft.Extensions.Logging;
+using Service.Repository;
 
 namespace Data.Repository
 {
-    public class ClientRepository
+    public class ClientRepository : IClientRepository
     {
         private readonly ILogger<ClientRepository> _logger;
         private readonly ClientDBContext _clientDbContext;
@@ -13,9 +14,17 @@ namespace Data.Repository
             _logger = logger;
             _clientDbContext = clientDbContext;
         }
+        public async Task SaveChanges() { await _clientDbContext.SaveChangesAsync();}
         public async Task Create(Client client, CancellationToken cancellationToken)
         {
-            await _clientDbContext.AddAsync(client,cancellationToken);
+            try
+            {
+                await _clientDbContext.AddAsync(client, cancellationToken);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error while adding client");
+            }
         }
     }
 }

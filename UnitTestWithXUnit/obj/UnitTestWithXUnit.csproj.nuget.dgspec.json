@@ -30,6 +30,9 @@
             "projectReferences": {
               "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj": {
                 "projectPath": "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj"
+              },
+              "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\Service\\Service.csproj": {
+                "projectPath": "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\Service\\Service.csproj"
               }
             }
           }
@@ -45,12 +48,6 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
             },
@@ -157,7 +154,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\Learning\\Project\\AppTest\\UnitTestWithXUnit\\DomainModel\\DomainModel.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
