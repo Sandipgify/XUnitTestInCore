@@ -37,7 +37,7 @@ namespace Service.Services
                 await _clientRepository.Update(client);
                 await _clientRepository.SaveChanges();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 throw;
             }
@@ -54,12 +54,7 @@ namespace Service.Services
         public async Task<IEnumerable<ClientDTO>> Get(CancellationToken cancellationToken)
         {
             var client = (await _clientRepository.Get(cancellationToken)).ToList();
-            var clientDTO = new List<ClientDTO>();
-            for (int loop = 0; loop < client.Count(); loop++)
-            {
-                clientDTO.Add(ClientMapping.ToClientDTO(client[loop]));
-            }
-            return clientDTO;
+            return client.Select(c => c.ToClientDTO());
         }
 
         public async Task<bool> ClientExist(long id, CancellationToken cancellationToken)
